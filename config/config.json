@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "123456",
+    "database": "eccommerce",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "host": "127.0.0.1",
+    "password": "123456",
+    "database": "eccommerce",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "host": "127.0.0.1",
+    "password": "123456",
+    "database": "eccommerce",
+    "dialect": "mysql"
+  }
+}
